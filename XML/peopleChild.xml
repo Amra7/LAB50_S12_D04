@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<people>
+ <person name = 'Emina' surname = 'M.'>
+   <age>21'</age>
+  <child name = 'Rambo' surname = 'M.' age = '5'/>
+  <child name = 'Sumaher' surname = 'M.' age = '5'/>
+ </person>
+ <person name = 'Naida' surname = 'D.'>
+   <age>29'</age>
+  <child name = 'Necko' surname = 'D.' age = '6'/>
+  <child name = 'Zlocko' surname = 'D.' age = '2'/>
+ </person>
+ <person name = 'Nedim' surname = 'O.'>
+   <age>32'</age>
+  <child name = 'Necko' surname = 'D.' age = '5'/>
+  <child name = 'Zlocko' surname = 'D.' age = '1'/>
+ </person>
+ <person name = 'Adnan' surname = 'S.'>
+   <age>38'</age>
+  <child name = 'Aida' surname = 'S.' age = '3'/>
+ </person>
+ <person name = 'Hikmet' surname = 'D.'>
+   <age>31'</age>
+  <child name = 'Nada' surname = 'O.' age = '4'/>
+ </person>
+ <person name = 'Jesenko' surname = 'G.'>
+   <age>27'</age>
+  <child name = 'Zina' surname = 'G.' age = '7'/>
+  <child name = 'Lara' surname = 'G.' age = '5'/>
+  <child name = 'Necko' surname = 'D.' age = '6'/>
+  <child name = 'Maja' surname = 'D.' age = '7'/>
+ </person>
+</people>
